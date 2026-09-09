@@ -1,0 +1,26 @@
+venv/
+__pycache__/
+frontend/node_modules/
+frontend/dist/
+.env
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Data files (optional, adjust if you want to track sample data)
+*.csv
+*.parquet
+*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
